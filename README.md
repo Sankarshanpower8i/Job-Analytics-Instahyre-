@@ -8,8 +8,11 @@ The project aims to analyze job data scraped from LinkedIn using Python librarie
 
 1. Analyzing the job market trends to identify the most in-demand skills.
 2. Understanding the top hiring industries and job locations.
-3. Exploring the distribution of job types (e.g., full-time, internship).
-4. Analyzing the company landscape, including industry preferences and company sizes.
+   
+   ![job count by location](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/d506aec0-6365-4437-901e-7f4e03ba1e1c)
+
+4. Exploring the distribution of job types (e.g., full-time, internship).
+5. Analyzing the company landscape, including industry preferences and company sizes.
 
 ## Data Description
 
