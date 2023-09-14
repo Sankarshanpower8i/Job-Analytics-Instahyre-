@@ -27,6 +27,32 @@ The project uses three main tables:
 
 - Details Table: Contains additional details related to job postings, including the details ID, experience level, required skills, and the total number of job applicants.
 
+## Python Files 🐍
+
+### Data Extraction 🌐
+- The data extraction phase involves collecting raw doctor information from the online medical consultancy booking site Practo. This is achieved using the Jupyter Notebook `Scrapping code.ipynb`.
+
+### Data Preprocessing 🧹
+- In the preprocessing phase, data is cleaned, missing values are handled, and exploratory data analysis is performed. The Jupyter Notebook `Preprocessing_EDA.ipynb` includes the cleaning and visualization code.
+
+
+## DATA 📊
+
+### Raw Data 📂
+- The collected data is stored in `raw_insta.csv`.
+
+### Cleaned Data 🧼
+- The cleaned data is saved in `rowinsta.csv`.
+
+
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Data** | This folder provides scrapped data in csv format |
+| **Python Files** | This contains the .ipynb file of the analysis for Data Scraping, Data cleaning, EDA and ML Models.  |
+| **Web Application** | This contains the .HTML, app.py and model.pkl file for User Interface  |
+
 ## Methodology
 
 The following methodology was used to accomplish the project objectives:
