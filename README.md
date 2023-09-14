@@ -33,7 +33,7 @@ The following methodology was used to accomplish the project objectives:
 
 4. **Data Analysis:** The analysis focused on generating insights and visualizations from the collected data. Key analysis points included:
 
-![Sample_User_interface](https://drive.google.com/file/d/1utnwJ6brIWCq9ExbqoSskPKt7rm3ECtj/view?usp=sharing)
+![Dashboard-1](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/f528b3fa-de7d-4514-bd0e-143628e265a2)
    - Identifying the most in-demand skills based on job descriptions.
    - Determining the top hiring industries and job locations.
    - Exploring the distribution of job types (e.g., full-time, internship).
