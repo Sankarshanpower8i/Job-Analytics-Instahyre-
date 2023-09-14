@@ -1,5 +1,8 @@
 # Project Name: Job Analytics - Data Analysis
 
+![title](https://github.com/Sankarshanpower8i/Job-Analytics-Instahyre-/assets/133600711/62a4bcf7-cae8-4374-a71e-21b42abdd37a)
+
+
 ## Introduction
 
 The project aims to analyze job data scraped from LinkedIn using Python libraries such as BeautifulSoup and Power Query. The primary goal is to gain insights into the job market trends, industry preferences, and other valuable information from the collected data.
